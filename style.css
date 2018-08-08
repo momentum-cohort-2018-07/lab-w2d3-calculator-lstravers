@@ -1,0 +1,22 @@
+body {
+    display: block; 
+}
+
+.flexContainer {
+    display: block;
+    margin: 50px;
+    width: 50%;
+}
+
+.button {
+    font-size: 40px;
+    margin: 0;
+    background-color: #002456;
+    border: 2px solid #002456;
+    color: #F5B100;
+}
+
+.table {
+    border: 2px solid #002456;
+    background-color: #002456;
+}
